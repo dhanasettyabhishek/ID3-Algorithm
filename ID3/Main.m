@@ -1,4 +1,4 @@
-%{ Team Members: Sreekanth Tangudu, Sai Krishna Chaitanya Mittapalli, Abhishek Dashinsetty}
+%{ Team Members: Sreekanth Tangudu, Sai Krishna Chaitanya Mittapalli, Abhishek Dhanasetty}
 
 %load iris.dat
 
